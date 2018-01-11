@@ -1,0 +1,41 @@
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=enc-intr
+base_path=/home/rodm/avr3/lib-enc-intr
+description=
+file_patterns=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=0
+FILE_NAME_0=1075;C;0;EUTF-8;1;1;0;%2Fhome%2Frodm%2Favr3%2Flib-enc-intr%2FencMain.c;0;4
+
+[VTE]
+last_dir=/home/rodm/avr3/lib-enc-intr
+
+[build-menu]
+NF_01_LB=Make clean
+NF_01_CM=make clean
+NF_01_WD=
+NF_02_LB=Make Install
+NF_02_CM=make install
+NF_02_WD=
+NF_03_LB=Make Size
+NF_03_CM=make size
+NF_03_WD=
